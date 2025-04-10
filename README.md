@@ -22,8 +22,8 @@ Este repositório contém um script Bash para automatizar a configuração de IP
 ## 📥 Instalação e uso
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/configura-ip-fixo-netplan.git
-   cd configura-ip-fixo-netplan
+   git clone https://github.com/seuusuario/configura_ip_fixo_netplan.git
+   cd configura_ip_fixo_netplan
 
 Edite o script se necessário para ajustar IP, gateway ou DNS.
 
